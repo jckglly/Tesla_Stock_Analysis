@@ -10,4 +10,7 @@ I used a time series to complete this analysis which was done when initially col
 
 I transformed certain features present so I could begin analysing:
 - the Range of the Stock over these intervals
-- the Daily Returns. 
+- the Daily Returns
+- the distribution of the Daily Returns on Tesla's Stock
+
+I finished off by concluding my analysis and the insights I gathered.
